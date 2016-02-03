@@ -1,5 +1,5 @@
 {
-  "name": "angular2-todo",
+  "name": "angular2-master-detail",
   "version": "1.0.0",
   "scripts": {
     "tsc": "tsc",

@@ -1,4 +1,6 @@
-# Angular 2 Todo Example
+# Angular 2 Master Detail Example
+
+Sample angular 2 typescript master detail app demonstrating services(injectables).
 
 ## Dev
 Install packages
@@ -12,3 +14,6 @@ Run app
 ```
 npm start
 ```
+
+## Licence
+MIT
